@@ -29,10 +29,12 @@ main{
 }
 
 .cabecalho-link{
-    color:rgb(0, 174, 255)
+    color:rgb(0, 174, 255);
 }
 h1{
-    color:rgb(15, 13, 148)
+    color:rgb(15, 13, 148);
+    font-size: 24px;
+
 }
 footer{
     background-color: rgb(108, 255, 211);

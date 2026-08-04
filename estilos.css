@@ -1,7 +1,7 @@
-*(
+*{
     margin: 0;
     padding: 0;
-)
+}
 
 .cabecalho {
 padding: 15px 25px;
@@ -15,7 +15,6 @@ background-color: #24f0ff;
     width:   260px;
     height: 200px;
 }
-
 .cartao-imagem{
     width: 100%;
 }
@@ -27,4 +26,8 @@ body{
 }
 main{
     flex: 1;
+}
+
+.cabecalho-link{
+    color:rgb(0, 174, 255)
 }

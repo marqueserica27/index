@@ -36,4 +36,6 @@ h1{
 }
 footer{
     background-color: rgb(108, 255, 211);
+    padding: 15px 25px;
+    color: rgb(0, 45, 112);
 }

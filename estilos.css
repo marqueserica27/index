@@ -22,7 +22,7 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-   background-color: rgb(48, 101, 180);
+   background-color: rgb(4, 66, 138);
 }
 main{
     flex: 1;

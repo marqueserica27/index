@@ -22,7 +22,7 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-   background-color: rgb(4, 66, 138);
+   background-color: rgb(73, 136, 209);
 }
 main{
     flex: 1;
@@ -32,7 +32,7 @@ align-items: center;
 }
 
 .cabecalho-link{
-    color:rgb(91, 4, 131);
+    color:rgb(4, 63, 131);
 }
 h1{
     color:rgb(15, 13, 148);
@@ -40,9 +40,12 @@ h1{
 
 }
 footer{
+    background-color: rgb(18, 7, 167);
+
     background-color: rgb(10, 214, 197);
-    padding: 15px 25px;
-    color: rgb(0, 45, 112);
+
+    padding : 15px 25px;
+    color : rgb(0, 45, 112);
 }
 
 .cartao-interno{

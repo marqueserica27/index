@@ -22,7 +22,7 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-   background-color: rgb(46, 163, 138);
+   background-color: rgb(251, 255, 0);
 }
 main{
     flex: 1;
@@ -40,7 +40,7 @@ h1{
 
 }
 footer{
-    background-color: rgb(108, 255, 211);
+    background-color: rgb(209, 132, 15);
     padding: 15px 25px;
     color: rgb(0, 45, 112);
 }
